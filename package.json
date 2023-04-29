@@ -1,0 +1,30 @@
+{
+  "name": "socialmedia",
+  "version": "1.0.0",
+  "description": "<h1>Post Taking App</h1>\r <p>This is the post making app in which I created 3 web pages namely, login,register,post</p>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chappa98/SocialMedia.git"
+  },
+  "keywords": [
+    "sai"
+  ],
+  "author": "sai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chappa98/SocialMedia/issues"
+  },
+  "homepage": "https://github.com/chappa98/SocialMedia#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
