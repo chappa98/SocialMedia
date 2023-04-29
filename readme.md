@@ -11,7 +11,7 @@ ERD
 ============================================================================================
 Installation
 To generate your own README, git clone the repo down to your local so you have the Node project on your local.
-git clone https://github.com/AlekyaOntela11/Assignment-3.git
+git clone https://github.com/chappa98/SocialMedia.git/
 npm init
 npm install
 npm install nodemon -save-dev
